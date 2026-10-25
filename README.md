@@ -8,6 +8,6 @@ per upstream version (e.g. `diffutils-3.12`). They are byte-identical to the
 upstream releases: consumers must keep verifying them against a pinned
 checksum.
 
-| Release | Source | Used by |
-|---|---|---|
-| `diffutils-3.12` | https://ftp.gnu.org/gnu/diffutils/ | uutils/diffutils `tests/run-upstream-testsuite.sh` |
+| Release | Source | License | Used by |
+|---|---|---|---|
+| `diffutils-3.12` | https://ftp.gnu.org/gnu/diffutils/ | GPL-3.0-or-later | uutils/diffutils `tests/run-upstream-testsuite.sh` |
